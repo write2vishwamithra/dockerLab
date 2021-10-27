@@ -1,0 +1,1 @@
+Make sure you can build docker images and publish and retrieve back and run WAE CLI tools in them
